@@ -1,0 +1,16 @@
+# office-jokes entry — local run artefacts only, never shipped in the entry
+/output/
+__pycache__/
+*.pyc
+*.pyo
+.pytest_cache/
+*.log
+*.tmp
+*.swp
+.DS_Store
+Thumbs.db
+.env
+.venv/
+venv/
+tmp/
+out/
